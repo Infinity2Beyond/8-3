@@ -49,7 +49,7 @@ function show5() {
     y.style.display="block"; 
 }
 function backtoending() {
-    const x = document.getElementById("second");
+    const x = document.getElementById("img12A1");
     const y = document.getElementById("yess");
     x.style.display="none";
     y.style.display="block"; 
