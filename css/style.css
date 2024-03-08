@@ -13,6 +13,8 @@
   transform: translateY(0);
   animation: fall 3s linear forwards infinite;
 }
+p { display: inline }
+
 
 a { color: inherit; 
   text-decoration:none; 
